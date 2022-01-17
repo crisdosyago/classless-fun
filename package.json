@@ -1,0 +1,24 @@
+{
+  "name": "classless-fun",
+  "version": "1.0.0",
+  "description": "Oh it's just a little bit of classless fun - the class(less) menagerie of single-file classless CSS sheets that aim to simply 'mimic' the look of popular and famous things: like Windows, Facebook, etc etc",
+  "main": "css/style.js",
+  "scripts": {
+    "test": "serve -p 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i5ik/classless-fun.git"
+  },
+  "keywords": [
+    "classless",
+    "classless-css",
+    "css"
+  ],
+  "author": "@dosy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/i5ik/classless-fun/issues"
+  },
+  "homepage": "https://github.com/i5ik/classless-fun#readme"
+}
